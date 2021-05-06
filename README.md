@@ -1,21 +1,18 @@
 # Investigate No-Show Appointments
-That data explored is about white wine samples from the Portuguese “Vinho Verde” wine. The samples went through various objective tests to determining their quality (output) based on sensory data. For this project, I performed a univariate, bivariate, and multivariate analysis on the dataset.
+In this project, we will be analyzing the data collected of patients in correlation with not showing up to appointments. In particaular, we will be interested in finding trends among patients those who are no-show to doctors appointments, and how they differ from patients who do show up to doctors appointments.
 
 ## Getting Started
 This project only requires data from the csv found within this repository.
 
 ### Prerequisites
-- ggplot2
-- dplyr
-- knitr
-- gridExtra
-- corrplot
-- RColorBrewer
-- corrr
+- numpy
+- pandas
+- matplotlib
 
 ## Built With
-- R
-- RStudio
+- Python
+- Anaconda
+- Jupyter Notebooks
 
 ## Author
 Michaela Wonacott
